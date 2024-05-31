@@ -89,4 +89,7 @@ cudaDeviceSynchronize();
 
 编译出的可执行文件将包含四个二进制版本，这样的可执行文件称为胖二进制文件（fatbinary）。
 
+## nvcc 的编译流程
+
+![nvcc-compilation](./img/cuda-compilation-from-cu-to-executable.png)
 
